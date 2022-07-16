@@ -1,0 +1,16 @@
+Key,Value
+ProjectFolderPath,C:\Users\Administrator\Documents\OFG-Submission
+ACNVendorNo,100432184
+ACNPortal,https://idigi.accenture.com
+IBMPortal,https://www-01.ibm.com/procurement/peswoi/protect/weborderinvoice.wss
+IBMVendorNo,1000479592
+BillFromState,Uttar Pradesh
+DeliveryNoteId,DTDC
+LineNumber,1
+TinyDelay,2
+MinDelay,5
+MaxDelay,15
+MaxRetryAttempt,3
+ProcessingThreshold,50
+AddDigitalSign,No
+EmailRecipients,vnsankit@outlook.com;vnsankit@gmail.com;rkrai2806@gmail.com

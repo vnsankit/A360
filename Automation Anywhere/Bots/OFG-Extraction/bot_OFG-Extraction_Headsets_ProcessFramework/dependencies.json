@@ -1,0 +1,1 @@
+{"path":"Automation Anywhere\\Bots\\OFG-Extraction\\OFG-Extraction_Headsets_ProcessFramework","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\OFG-Extraction\\OFG-Extraction_Headsets_ExtractPODetails","Automation Anywhere\\Bots\\OFG-Extraction\\OFG-Extraction_Headsets_PortalLogin","Automation Anywhere\\Bots\\OFG-Extraction\\OFG-Extraction_Logger"]}
