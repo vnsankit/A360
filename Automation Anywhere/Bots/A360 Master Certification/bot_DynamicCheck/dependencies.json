@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\A360 Master Certification\\DynamicCheck","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\A360 Master Certification\\DynamicCheck","manualDependencies":["Automation Anywhere\\Bots\\A360 Master Certification\\UseCase-1","Automation Anywhere\\Bots\\A360 Master Certification\\UseCase-3","Automation Anywhere\\Bots\\A360 Master Certification\\UseCase-2"],"scannedDependencies":[]}
