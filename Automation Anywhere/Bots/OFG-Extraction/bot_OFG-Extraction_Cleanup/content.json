@@ -780,24 +780,24 @@
   }],
   "packages": [{
     "id": "",
+    "name": "String",
+    "version": "5.7.1"
+  }, {
+    "id": "",
     "name": "Email",
-    "version": "3.16.2-20230106-082520"
+    "version": "3.17.6"
   }, {
     "id": "",
     "name": "Application",
-    "version": "3.7.0-20221226-112745"
+    "version": "3.8.0"
   }, {
     "id": "",
     "name": "Comment",
-    "version": "2.13.2"
-  }, {
-    "id": "",
-    "name": "String",
-    "version": "5.6.1-20230104-150822"
+    "version": "2.14.0"
   }, {
     "id": "",
     "name": "Delay",
-    "version": "3.7.0-20230104-151127"
+    "version": "3.8.0"
   }],
   "triggers": [],
   "workItemTemplateName": ""

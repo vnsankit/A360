@@ -3222,11 +3222,11 @@
   "packages": [{
     "id": "",
     "name": "Excel_MS",
-    "version": "6.14.0-20221221-171419"
+    "version": "6.15.1"
   }, {
     "id": "",
     "name": "Number",
-    "version": "3.7.1-20230105-092807"
+    "version": "3.8.0"
   }],
   "triggers": [],
   "workItemTemplateName": ""

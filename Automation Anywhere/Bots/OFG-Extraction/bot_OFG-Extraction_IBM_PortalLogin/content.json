@@ -4640,36 +4640,36 @@
   }],
   "packages": [{
     "id": "",
-    "name": "Browser",
-    "version": "3.8.4-20230118-065250"
-  }, {
-    "id": "",
-    "name": "Application",
-    "version": "3.7.0-20221226-112745"
-  }, {
-    "id": "",
-    "name": "Wait",
-    "version": "4.8.1-20230105-092655"
-  }, {
-    "id": "",
-    "name": "Recorder",
-    "version": "2.10.2-20230104-214915"
-  }, {
-    "id": "",
     "name": "String",
-    "version": "5.6.1-20230104-150822"
+    "version": "5.7.1"
   }, {
     "id": "",
     "name": "Window",
-    "version": "5.9.0-20221221-162100"
+    "version": "5.10.0"
+  }, {
+    "id": "",
+    "name": "Application",
+    "version": "3.8.0"
   }, {
     "id": "",
     "name": "Delay",
-    "version": "3.7.0-20230104-151127"
+    "version": "3.8.0"
+  }, {
+    "id": "",
+    "name": "Recorder",
+    "version": "2.11.5-20230512-083852"
+  }, {
+    "id": "",
+    "name": "Browser",
+    "version": "3.9.0"
+  }, {
+    "id": "",
+    "name": "Wait",
+    "version": "4.9.0"
   }, {
     "id": "",
     "name": "If",
-    "version": "3.6.1-20230106-055132"
+    "version": "3.6.2-20230316-161323"
   }],
   "triggers": [],
   "workItemTemplateName": ""

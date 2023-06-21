@@ -6089,7 +6089,10 @@
         "presetType": "NONE",
         "windowType": "NATIVE",
         "browserTabUrl": "",
-        "browserTabOpenNewWindow": false
+        "browserTabOpenNewWindow": false,
+        "nameCaseInsensitive": false,
+        "virtualType": "VIRTUAL_TYPE_NONE",
+        "virtualPath": ""
       },
       "exceptionName": "",
       "thumbnailMetadataPath": "",
@@ -6277,60 +6280,60 @@
   }],
   "packages": [{
     "id": "",
-    "name": "Application",
-    "version": "3.2.0-20211011-141616"
-  }, {
-    "id": "",
-    "name": "CsvTxt",
-    "version": "2.6.0-20211011-141644"
-  }, {
-    "id": "",
-    "name": "DataTable",
-    "version": "4.0.0-20211011-142205"
-  }, {
-    "id": "",
-    "name": "Delay",
-    "version": "3.2.0-20211011-141700"
+    "name": "String",
+    "version": "5.7.1"
   }, {
     "id": "",
     "name": "Email",
-    "version": "3.8.0-20211122-062547"
+    "version": "3.17.6"
   }, {
     "id": "",
-    "name": "File",
-    "version": "5.2.0-20211011-141723"
+    "name": "Application",
+    "version": "3.8.0"
   }, {
     "id": "",
-    "name": "If",
-    "version": "3.1.0-20211011-141741"
+    "name": "Delay",
+    "version": "3.8.0"
   }, {
     "id": "",
-    "name": "List",
-    "version": "2.5.0-20211016-065558"
+    "name": "CsvTxt",
+    "version": "2.12.0"
   }, {
     "id": "",
     "name": "LogToFile",
-    "version": "3.2.0-20211011-141811"
+    "version": "3.7.0"
   }, {
     "id": "",
-    "name": "Loop",
-    "version": "3.1.0-20211011-141812"
+    "name": "File",
+    "version": "6.7.0"
   }, {
     "id": "",
-    "name": "MessageBox",
-    "version": "3.1.0-20211011-141813"
-  }, {
-    "id": "",
-    "name": "Python",
-    "version": "2.9.0-20211016-065947"
+    "name": "List",
+    "version": "2.11.0"
   }, {
     "id": "",
     "name": "Wait",
-    "version": "4.2.0-20211011-142218"
+    "version": "4.9.0"
   }, {
     "id": "",
-    "name": "String",
-    "version": "5.4.2-20220412-134724"
+    "name": "Loop",
+    "version": "3.7.5-20230316-155504"
+  }, {
+    "id": "",
+    "name": "MessageBox",
+    "version": "3.6.0"
+  }, {
+    "id": "",
+    "name": "Python",
+    "version": "2.15.0"
+  }, {
+    "id": "",
+    "name": "If",
+    "version": "3.6.2-20230316-161323"
+  }, {
+    "id": "",
+    "name": "DataTable",
+    "version": "4.8.0"
   }],
   "triggers": [],
   "workItemTemplateName": "",
