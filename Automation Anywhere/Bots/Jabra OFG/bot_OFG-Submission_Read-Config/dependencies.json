@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\Jabra OFG\\OFG-Submission_Read-Config","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Jabra OFG\\ReleaseIEInstance.vbs","Automation Anywhere\\Bots\\Jabra OFG\\ProcessConfig.csv"]}
+{"path":"Automation Anywhere\\Bots\\Jabra OFG\\OFG-Submission_Read-Config","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Jabra OFG\\ProcessConfig.csv","Automation Anywhere\\Bots\\Jabra OFG\\ReleaseIEInstance.vbs"],"metadataDependencies":[]}
